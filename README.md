@@ -4,10 +4,10 @@ This repo records the airdrop results for the Mintopoly! Money awards. Each week
 
 1. Tally net worth of combined 250 players
 2. Loop through each player, in order of rank. For each:
-	1. divide their net worth by total net worth
-	2. multiply this by the airdrop size to get their payout amount
+	1. Divide their net worth by total net worth
+	2. Multiply this by the airdrop size to get their payout amount
 	3. If their share is > 1% of airdrop size, cap their payout at 1%
-	4. subtract this player's payout from total payout remaining and their net worth from total net worth remaining.
+	4. Subtract this player's payout from total payout remaining and their net worth from total net worth remaining.
 	5. Repeat with each successive player with these new totals 
 
 
