@@ -16,7 +16,7 @@ Each weekly calculation is posted in a txt file here, and airdrop transactions a
 
 ## Airdrop Transactions
 
-### Round 1 (8/4/21)
+### Round 2 (8/4/21)
 **Mintopoly Money Airdrop  (1,000,000 to top 200)**
 * to be batched and sent with round 3
 
@@ -28,7 +28,7 @@ Each weekly calculation is posted in a txt file here, and airdrop transactions a
 * pending
 * pending
 
-
+---
 
 ### Round 1 (7/28/21)
 **Mintopoly Money Airdrop  (1m to top 250)**
