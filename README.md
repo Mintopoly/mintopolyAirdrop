@@ -16,6 +16,20 @@ Each weekly calculation is posted in a txt file here, and airdrop transactions a
 
 ## Airdrop Transactions
 
+### Round 1 (8/4/21)
+**Mintopoly Money Airdrop  (1,000,000 to top 200)**
+* to be batched and sent with round 3
+
+**Mintopolist Card (Top Place)**
+* pending
+
+**UniSnap (Mining Rig Bonus)**
+* pending
+* pending
+* pending
+
+
+
 ### Round 1 (7/28/21)
 **Mintopoly Money Airdrop  (1m to top 250)**
 * https://etherscan.io/tx/0x692d3a5da44e3669e0c254377be57b159a9c25114a848d607b13bea795dd7767
