@@ -21,12 +21,12 @@ Each weekly calculation is posted in a txt file here, and airdrop transactions a
 * to be batched and sent with round 3
 
 **Mintopolist Card (Top Place)**
-* pending
+* https://etherscan.io/tx/0x6fcdd6bfe05f4dfafbd9a59291adde0dc7ec9a308785efe0904cdfd5abf61cd7
 
 **UniSnap (Mining Rig Bonus)**
-* pending
-* pending
-* pending
+* https://etherscan.io/tx/0x88018dc6fda580ad64179c398775703b9d6fc30d884c076707c305cc8dc6eb9d
+* https://etherscan.io/tx/0x9b1cbda1d9a02e23ddde2af93483e67e1e430cb2bebda64dfa92485e146ae8c4
+* https://etherscan.io/tx/0x9856c8d45ee4e2e96a5383d43d54ed96f3081ef830f0085e13adc146b71109ac
 
 ---
 
