@@ -17,8 +17,8 @@ Each weekly calculation is posted in a txt file here, and airdrop transactions a
 ## Airdrop Transactions
 
 ### Round 3 (8/11/21)
-**Mintopoly Money Airdrop  (1,000,000 to top 200)**
-* pending for round 2 & 3
+**Mintopoly Money Airdrop (1,000,000 to top 200)**
+* https://etherscan.io/tx/0x0dc3af7f1278e62ca9f25d3a26dc67ec7f3f103fe60462dc3fdd56f14dda6158 (combined round 2 & 3 distribution)
 
 **Mintopolist Card (Top Place)**
 * https://etherscan.io/tx/0x5fe2197b86c67cbaf4e9f22187fc5a4ca4ad9c1ab776d2ab4f00035a41e1ba30
