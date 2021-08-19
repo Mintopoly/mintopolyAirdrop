@@ -16,6 +16,19 @@ Each weekly calculation is posted in a txt file here, and airdrop transactions a
 
 ## Airdrop Transactions
 
+### Round 4 (8/18/21)
+**Mintopoly Money Airdrop (1,000,000 to top 200)**
+* to be batched with future rounds
+
+**Mintopolist Card (Top Place)**
+* https://etherscan.io/tx/0x326ac3273f4d238e1d9ca57f95deb5de139b109161c13af9184169d8e4cc36e3
+
+**coderPunk (Smart Contract Bonus)**
+* https://etherscan.io/tx/0x065850e8bc2216974d3ac85b624e6ec8c6e0951361181ded3424ba55c5e2834e
+* https://etherscan.io/tx/0xc57739f9e054970519cca933e8b45223695dbd6fb4fcc1fa6a53388f9baf6212
+
+---
+
 ### Round 3 (8/11/21)
 **Mintopoly Money Airdrop (1,000,000 to top 200)**
 * https://etherscan.io/tx/0x0dc3af7f1278e62ca9f25d3a26dc67ec7f3f103fe60462dc3fdd56f14dda6158 (combined round 2 & 3 distribution)
