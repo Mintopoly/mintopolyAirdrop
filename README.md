@@ -16,6 +16,18 @@ Each weekly calculation is posted in a txt file here, and airdrop transactions a
 
 ## Airdrop Transactions
 
+### Round 6 (8/29/21)
+**Mintopoly Money Airdrop (1,000,000 to top 200)**
+* to be batched with future rounds (likely rounds 4-7 in one transaction)
+
+**Mintopolist Card (Top Place)**
+* 0x83694b5ce034CD7F664b28e1c69FD9D2b35BD1e0
+
+**Flash Loan (random winner with m100 – (0xE9CB46E2AF4EFfBde62838125aDc825c3c06Aad2)**
+* 0xE9CB46E2AF4EFfBde62838125aDc825c3c06Aad2
+
+---
+
 ### Round 5 (8/25/21)
 **Mintopoly Money Airdrop (1,000,000 to top 200)**
 * to be batched with future rounds
