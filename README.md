@@ -21,10 +21,10 @@ Each weekly calculation is posted in a txt file here, and airdrop transactions a
 * to be batched with future rounds (likely rounds 4-7 in one transaction)
 
 **Mintopolist Card (Top Place)**
-* 0x83694b5ce034CD7F664b28e1c69FD9D2b35BD1e0
+* https://etherscan.io/tx/0xcb26a5a6996bacc677827529290a8dcb183e90007eeb00156ceba768d982e7bc
 
-**Flash Loan (random winner with m100 – (0xE9CB46E2AF4EFfBde62838125aDc825c3c06Aad2)**
-* 0xE9CB46E2AF4EFfBde62838125aDc825c3c06Aad2
+**Flash Loan (random draw for players with m100+)**
+* [0xE9CB46E2AF4EFfBde62838125aDc825c3c06Aad2 drawn] https://etherscan.io/tx/0x00fad24c21f14e31f6243823e1acfa8cf244b73675a5e5ba432d1fb4e47fb59c
 
 ---
 
