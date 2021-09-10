@@ -16,6 +16,20 @@ Each weekly calculation is posted in a txt file here, and airdrop transactions a
 
 ## Airdrop Transactions
 
+### Round 7 (9/8/21)
+**Mintopoly Money Airdrop (1,000,000 to top 200)**
+* https://etherscan.io/tx/0xb55dea5074f0c45c64602620b4106d7a20a42fbec030aeb68ed459fe1354aad5 (rounds 4-7)
+
+**Mintopolist Card (Top Place)**
+* https://etherscan.io/tx/0x9ed0186994f2d399e1fff109667b938c30e75e6f6ad5afb11383be907c38f799
+
+**NFT Artwork Card (players with most mining rigs)**
+* https://etherscan.io/tx/0xa5c12499521043ef3916e56fe9eb3aa69dbcc1a2413b19d68292e443f677e6f6
+* https://etherscan.io/tx/0x0f3581ce3b6d4818c45e8a0f7e824d36b6aebc0ac9263fb761d236a62f611df1
+* https://etherscan.io/tx/0xa7299cb19572f7fb8ad263f4d1a1fce5943d9ce44f370fa1e1d1375ef06485c2
+
+---
+
 ### Round 6 (8/29/21)
 **Mintopoly Money Airdrop (1,000,000 to top 200)**
 * to be batched with future rounds (likely rounds 4-7 in one transaction)
