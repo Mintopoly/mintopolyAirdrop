@@ -16,6 +16,19 @@ Each weekly calculation is posted in a txt file here, and airdrop transactions a
 
 ## Airdrop Transactions
 
+### Round 8 (9/15/21)
+**Mintopoly Money Airdrop (1,000,000 to top 200)**
+* Pending launch of layer 2 vault on Polygon within the coming 7-10 days
+
+**Mintopolist Card (Top Place)**
+* https://etherscan.io/tx/0x64d4d80835551ea60bef37fea792929df23b3f9f0960f691c34524da9b7a0b62
+
+**Dapp Card (players with most total investments owned)**
+* https://etherscan.io/tx/0xdb3fa7c601378ee09daff74b1b2be6d7a983bb5d14a50a73c1eb9eac21f0d8c2
+* https://etherscan.io/tx/0x6f89cb0fb6c1327cd3d7d8a054292bcaa29423043056d43aea93273a6511822c
+
+---
+
 ### Round 7 (9/8/21)
 **Mintopoly Money Airdrop (1,000,000 to top 200)**
 * https://etherscan.io/tx/0xb55dea5074f0c45c64602620b4106d7a20a42fbec030aeb68ed459fe1354aad5 (rounds 4-7)
