@@ -1,3 +1,14 @@
+Mintopoly Money Airdrop (1,000,000 to top 200)
+https://etherscan.io/tx/0x0dc3af7f1278e62ca9f25d3a26dc67ec7f3f103fe60462dc3fdd56f14dda6158 (rounds 2 & 3 combined)
+
+Mintopolist Card (Top Place)
+https://etherscan.io/tx/0x5fe2197b86c67cbaf4e9f22187fc5a4ca4ad9c1ab776d2ab4f00035a41e1ba30
+
+Wall St. Banker (Centralized Exchange Bonus)
+https://etherscan.io/tx/0x82cecbda2984fb4c8e808a1fcd8812b351fd0c213f20b3414e54210ffa7c5c0e
+https://etherscan.io/tx/0x38cc96019b39fa75cfd1e99ba4a33bf8f1ac2d96ec4edd7b60fe8ad8659ae8bb
+
+TOKEN ALLOCATION
 0x1847dc050A3680770E63C4284f3be75453eDAbeB : 10,000
 0x83694b5ce034CD7F664b28e1c69FD9D2b35BD1e0 : 10,000
 0x667D7b03958543a03C4018310093722F33353Fd8 : 10,000
