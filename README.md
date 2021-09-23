@@ -22,12 +22,15 @@ Starting with round #8, a layer-2 bridge was created on the Polygon network for 
 
 ## Contracts / Links
 
+**Mintopoly Banker** (to view balances and transact):
+* https://mintopoly.io/banker
+
 **Official Polygon Bridge** (to move tokens on/off the mainnet):
-https://wallet.polygon.technology/bridge
+* https://wallet.polygon.technology/bridge
 
 **Ethereum Mintopoly Money Contract:** 
-https://etherscan.com/token/0xf6a09deadf5a10aa7822d95e3228b2315de8f6fa
+* https://etherscan.com/token/0xf6a09deadf5a10aa7822d95e3228b2315de8f6fa
 
 **Polygon Mintopoly Money Contract:** 
-https://polygonscan.com/token/0xf6a09deadf5a10aa7822d95e3228b2315de8f6fa
+* https://polygonscan.com/token/0xf6a09deadf5a10aa7822d95e3228b2315de8f6fa
 
