@@ -1,3 +1,14 @@
+Mintopoly Money Airdrop (1,000,000 to top 200)
+batched with rounds 4-7
+
+Mintopolist Card (Top Place)
+https://etherscan.io/tx/0x72a0032fe5908352850caed506e33ef4cc14f3cea9049d80e4fde35d2b70cd0f
+
+Liquidity Pool (Decentralized Exchange Bonus)
+https://etherscan.io/tx/0x7390d3f4ab289fc222bc5be859245da95bac1b07b343719971fe9f7f259efde2
+https://etherscan.io/tx/0xd3a1f36a2c1c3ae7f355177be30d7bd0387a57bebadcd3ebee052bc6c7b1446c
+
+TOKEN ALLOCATION
 0x3b4E8Aab17b8C3C54e1eD02daB023D89BcEef55E : 10,000
 0x83694b5ce034CD7F664b28e1c69FD9D2b35BD1e0 : 10,000
 0x98eFf980C57c9D333340b3856481bF7B8698987c : 10,000
