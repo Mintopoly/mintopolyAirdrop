@@ -16,6 +16,9 @@ Each weekly calculation is posted in a txt file here, and airdrop transactions a
 
 ## Airdrop Transactions
 
+To see the results of each airdrop transaction and prize distribution, click on each round's txt file in this repo.
+
+
 ### Round 8 (9/15/21)
 **Mintopoly Money Airdrop (1,000,000 to top 200)**
 * Pending launch of layer 2 vault on Polygon within the coming 7-10 days
