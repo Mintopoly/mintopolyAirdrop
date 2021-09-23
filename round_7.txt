@@ -1,3 +1,15 @@
+Mintopoly Money Airdrop (1,000,000 to top 200)
+https://etherscan.io/tx/0xb55dea5074f0c45c64602620b4106d7a20a42fbec030aeb68ed459fe1354aad5 (rounds 4-7)
+
+Mintopolist Card (Top Place)
+https://etherscan.io/tx/0x9ed0186994f2d399e1fff109667b938c30e75e6f6ad5afb11383be907c38f799
+
+NFT Artwork Card (players with most mining rigs)
+https://etherscan.io/tx/0xa5c12499521043ef3916e56fe9eb3aa69dbcc1a2413b19d68292e443f677e6f6
+https://etherscan.io/tx/0x0f3581ce3b6d4818c45e8a0f7e824d36b6aebc0ac9263fb761d236a62f611df1
+https://etherscan.io/tx/0xa7299cb19572f7fb8ad263f4d1a1fce5943d9ce44f370fa1e1d1375ef06485c2
+
+TOKEN ALLOCATION
 0xAcca8873872C1483514bd77ab17Cc8Ea825a751f : 10,000
 0x36595db21f4Fcd3742e5771358a543b2bEEd869b : 10,000
 0x0F10fBb14316C1F5f38c1dC6bf70591afec4bc6c : 10,000
