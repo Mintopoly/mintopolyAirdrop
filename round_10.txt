@@ -2,9 +2,12 @@ Mintopoly Money Airdrop (1,000,000 to top 500)
 https://polygonscan.com/tx/0xbceb6fd867afa2d9f18744aa74734ae0ccd3aafa22dda92c61be34570cbf8e33
 
 Mintopolist Card (Top Place)
+https://etherscan.io/tx/0x607fe0ad38b33c7ee5a1608bdf5ef7e03ba7c1a6e4ed9eda2678939563798c1c
 
 3x OpenOcean Dapp Card random draw from top 25)
-
+https://etherscan.io/tx/0xc5a95a78a79b8acb54e2b7e49d81455b6af3b8e0392d5d49a63a685f0c606906
+https://etherscan.io/tx/0x7880e928e13feca183f0f17c331b2bb3510687abaffcf41f203ab45bd98318f2
+https://etherscan.io/tx/0x16a2c366848c7a6118682c924c861d8169e5ce062f668e88eea758ece33b63ea
 
 TOKEN ALLOCATION
 0xAcca8873872C1483514bd77ab17Cc8Ea825a751f : 10,000
