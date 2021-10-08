@@ -2,8 +2,11 @@ Mintopoly Money Airdrop (1m to top 300)
 https://polygonscan.com/tx/0xb5fe6a4abeed77cbfad45e5b977873840ea05a6fe2742731a41ce18016e083aa
 
 Mintopolist Card (Top Place)
+https://etherscan.io/tx/0x1a7501235e2c2e6a867da32c21268d5f9618dd6df965122a1b18eaa1ecb1c13b
 
 Manic Monkey (Most Investments Bonus)
+https://etherscan.io/tx/0xc8c5beba27f04713fc9b3ea096fc75e9b65f4651ff4d49dcc9876d0a8cf22f54
+https://etherscan.io/tx/0x8b3d4204fce9accda44c808e2d462d8c281f5b2410678cf45906ab9ec2e841fc
 
 TOKEN ALLOCCATION
 0xAcca8873872C1483514bd77ab17Cc8Ea825a751f : 10,000
