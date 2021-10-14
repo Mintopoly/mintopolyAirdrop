@@ -6,6 +6,7 @@ https://etherscan.io/tx/0xbebb00b8aedbaf6112f1eef3407b4e165e2f734c381a03fb2a60a8
 
 Expensive Dots (Closest to 100,000)
 https://etherscan.io/tx/0xc16acdaa5a7e6a93ce8d82553bc25a4a1cd504f98cf2cbb17d6998be101dfbf6
+https://etherscan.io/tx/0xd2094e575cb31c58974aaffd3259477045f0307d14227f58cdf39890c590d7ef
 
 TOKEN ALLOCCATION
 0x83694b5ce034CD7F664b28e1c69FD9D2b35BD1e0 : 10,000
