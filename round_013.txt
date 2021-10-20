@@ -4,8 +4,9 @@ https://polygonscan.com/tx/0x0432bf03381263af0c8580a223823dbc694cd8d2bfb93a1a015
 Mintopolist Card (Top Place)
 https://etherscan.io/tx/0x4b32ba9019138b12ab24b89bfa47a3e81703b5e24336e2ba145ec8010d5e5ccc
 
-Yellow Lightning ( Chosen from 25 with most Trading Bots)
-
+Yellow Lightning (2x Random players from 25 with most Trading Bots)
+https://etherscan.io/tx/0x76ccbf64e77185a4b00c39356c2ad78e6bdaa33b8ee17489273138ea9a84efe6
+https://etherscan.io/tx/0x090d296f62e255d39a264ecb9a93e74636b860d533be6ca0090a8b511f3b8f74
 
 TOKEN ALLOCCATION
 0x0dd761060aDba486CAa5CcE2B57Ba8445986851d : 10,000
