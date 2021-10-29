@@ -5,7 +5,8 @@ Mintopolist Card (Top Place)
 https://etherscan.io/tx/0x51b49ba95df9b7e5a2eed758e6a030c7b20fc5ffb2164d3101b866f9ea14f38c
 
 Pumpkin Farm (2x Most Oracles)
-
+https://etherscan.io/tx/0x51cf942e1e49cdcd9cd867b3f5af90ade1a9b69adb799e8b17dcf71b12d47a8d
+https://etherscan.io/tx/0xcc4b58097f40699fa3b4822faeb589b9128e92a8896e1ff9b36f3d5a1ee1f6d9
 
 TOKEN ALLOCCATION
 0x83694b5ce034CD7F664b28e1c69FD9D2b35BD1e0 : 10,000
