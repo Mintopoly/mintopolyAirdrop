@@ -1,10 +1,11 @@
 Mintopoly Money Airdrop (1m to top 500)
+https://polygonscan.com/tx/0xceca2cb0ab96009b117111deaa57cb10ffb61db918f80be307909b070e877632
 
 Mintopolist Card (Top Place)
 https://etherscan.io/tx/0x0ba54cc949b16db80a891c87e2b162dec31d89f4106ca2dfe7c476bef9596511
 
 ASIC Factory Card (Mining Rigs w/ No Forks)
-
+https://etherscan.io/tx/0x6ac46e9284bcc0d2eb094ad5f9d216a6bf198f5f2c302b0c321615e6d18c9251
 
 TOKEN ALLOCATION
 0x0dd761060aDba486CAa5CcE2B57Ba8445986851d : 10,000
