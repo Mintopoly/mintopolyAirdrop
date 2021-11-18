@@ -5,7 +5,8 @@ Mintopolist Card (Top Place)
 https://etherscan.io/tx/0x01f8ebb2c00200607b05f3cc135ffc5525b4701e816773c26c951a2d6302ef46
 
 Closest to m100,000 without going over (Smart Contract Bonus)
-
+https://etherscan.io/tx/0xcbbbce09db48421f17967f6a5ef2e89f23c519b9ce0f198f4e7e2ab5cd0d96ac
+https://etherscan.io/tx/0xb20f23215d7498a30215d39fcfcf69266f11168d058ca8400ac3ddd959bdee32
 
 TOKEN ALLOCATION
 0x83694b5ce034CD7F664b28e1c69FD9D2b35BD1e0 : 10,000
