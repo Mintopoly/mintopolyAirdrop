@@ -2,10 +2,11 @@ Mintopoly Money Airdrop (1,000,000 to top 500)
 https://polygonscan.com/tx/0x1b7a72181072f6633bffe06da8c34c6abf021adcb82b998cb057dd8982b3bb0a
 
 Mintopolist Card (Top Place)
-
+https://etherscan.io/tx/0x18efc64974145a375ae047b5fe5e7286853dd3bc8ff575aba325af02160686d3
 
 CoderPunk Card (highest net worth with 2 cards or less)
-
+https://etherscan.io/tx/0x505b12ff54acf4339ede10eb95667b6486bc6bdf60bae273c2ca80bcda0340e7
+https://etherscan.io/tx/0x9ae367cb673326ad3405e61f781e1df031865698911b3e7a4372040bd1018ec6
 
 TOKEN ALLOCATION
 0x0dd761060aDba486CAa5CcE2B57Ba8445986851d : 10,000
