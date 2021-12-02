@@ -5,6 +5,8 @@ Mintopolist Card (Top Place)
 https://etherscan.io/tx/0x2c3d011dbc486ef9cfebcae3d3aa2ef1c7e3198f548021f17f0fe7b0f3f6037a
 
 NFT Artwork Card (Net Worth with <2 Cards)
+https://etherscan.io/tx/0x522a5573080e29557a06cd889b5cb2c095820ca70d848ec6561c9f84ff75fcd3
+https://etherscan.io/tx/0x255b27f3ea6a73a95d5dd84f1aab0c98d75f0f5bd0f106657059b16fea8aa3a3
 
 TOKEN ALLOCATION
 0xbA4A602Bf1b9c92b9C141b422aeE0B759750F9be : 10,000
