@@ -6,6 +6,7 @@ https://etherscan.io/tx/0x603509e5bf5e5b5f6b1d920f80f2c313337dab66851acc273075c5
 
 Dapp Card (2x random draw from top 25 most Mining Rigs with no forks)
 https://etherscan.io/tx/0xc3c8bd0934ff5cf942fc350bf910d6a67ba08a6e45920be44203f8e9972af48e
+https://etherscan.io/tx/0x0cfd52e6b41d3a19a8307a1ff3720f1107efec62c55e932cb310abc67410a820
 
 TOKEN ALLOCATION
 0x0dd761060aDba486CAa5CcE2B57Ba8445986851d : 10,000
