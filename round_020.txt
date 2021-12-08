@@ -1,11 +1,11 @@
 Mintopoly Money Airdrop (1,000,000 to top 500)
-
+https://polygonscan.com/tx/0xdf318bd37d5fe286c0734f8fdd3b777ec3e8499dcf554b3a981c0332fd7563de
 
 Mintopolist Card (Top Place)
+https://etherscan.io/tx/0x603509e5bf5e5b5f6b1d920f80f2c313337dab66851acc273075c5ef36a78d56
 
-
-NFT Artwork Card (Net Worth with <2 Cards)
-
+Dapp Card (2x random draw from top 25 most Mining Rigs with no forks)
+https://etherscan.io/tx/0xc3c8bd0934ff5cf942fc350bf910d6a67ba08a6e45920be44203f8e9972af48e
 
 TOKEN ALLOCATION
 0x0dd761060aDba486CAa5CcE2B57Ba8445986851d : 10,000
