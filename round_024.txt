@@ -5,6 +5,7 @@ Mintopolist Card (Top Place)
 
 2x Most Mining Rigs with no Hard Forks
 https://etherscan.io/tx/0x354824a0fc2248c02a9f4f1c2b9cb181ced1fb0fa4996ee5eb6830a1f477e25f
+https://etherscan.io/tx/0x1c334a08a51b3476ad11addbd64ca374d51344688aad5ef82b4c40388388214d
 
 TOKEN ALLOCATION
 0x95d92C01ac2E45c33Bd5C40Ef555C01dBde43C83 : 10,000
