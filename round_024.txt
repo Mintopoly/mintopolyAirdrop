@@ -2,6 +2,7 @@ Mintopoly Money Airdrop (1,000,000 to top 400)
 https://polygonscan.com/tx/0x2306cfa57d63c9d032a02e6b0bad930db194c8aebc15102e046270fca1e4dc92
 
 Mintopolist Card (Top Place)
+https://etherscan.io/tx/0x78a3c72d6426810dfb99ef1a964cbf9a6267e39a1776af16c1c06888d859a5e0
 
 2x Most Mining Rigs with no Hard Forks
 https://etherscan.io/tx/0x354824a0fc2248c02a9f4f1c2b9cb181ced1fb0fa4996ee5eb6830a1f477e25f
