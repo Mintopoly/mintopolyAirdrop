@@ -5,6 +5,8 @@ Mintopolist Card (Top Place)
 https://etherscan.io/tx/0x832c69d61759faf62b7a6362cc988822aa954b870a94c8ae1ed8d592df8d4a30
 
 NFT Artwork (Most Trading Bots and No Forks)
+https://etherscan.io/tx/0x61171bb629c37ebda924aeefd45b8266e3212e847093f996c09ea3cdb956e270
+https://etherscan.io/tx/0x558580d8cf398c81aee1d92e5a41da7b012e14088387266bc6e7d4e41ceb9027
 
 TOKEN ALLOCATION
 0x89830F1ebffAb4899D7712a8ab6fDE1F51f20f18 : 10,000
