@@ -1,5 +1,5 @@
 Mintopoly Money Airdrop (1,000,000 to top 400)
-https://polygonscan.com/tx/0xed25e9589fca2a704b8a43a0bb619576245ebf8a0eeb58397ec0e7142bf38045
+https://polygonscan.com/tx/0xf935fd4e89d7a27b873fd9167e0c9f49f10ae3ceeeb1e84581d5c6ef36ef8e37
 
 Mintopolist Card (Top Place)
 https://etherscan.io/tx/0x2911e50ee298b9a977016d1e31e545340932d8f080bbcc5587e1cdbfd7b93771
