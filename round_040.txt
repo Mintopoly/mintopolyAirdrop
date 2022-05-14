@@ -5,6 +5,7 @@ MINTOPOLIST CARD (Top Place)
 https://etherscan.io/tx/0x7e954871bb1f35b1bae0b9628e1bcdf6695d81ff3e09c594a93f3c6389e4462d
 
 MINER UPGRADE (Most Mining Rigs)
+https://etherscan.io/tx/0x61d561c206ddee05bff9f5dfa0d37d97a0e177f2ee95b45fe697f973dd67fb0e
 https://etherscan.io/tx/0xb21db190067b549e5faf70ee7af920992629363c01ff6ea0aa03c7f43c755584
 
 TOKEN DISTRIBUTION
