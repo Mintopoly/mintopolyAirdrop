@@ -1,4 +1,5 @@
 MINTOPOLY MONEY AIRDROP (1,000,000 to top 500)
+https://polygonscan.com/tx/0x247ee11b60338f998669c7954035bfc4a38978fdd1d1ab34ff868ba2e08a7607
 
 MINTOPOLIST CARD (Top Place)
 https://etherscan.io/tx/0x4ff43d0fb27d7c24fc4b40f4778f46af043964d8c03c85eccecd57f5aab1c273
