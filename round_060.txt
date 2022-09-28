@@ -2,8 +2,12 @@ Mintopoly Money Airdrop (250,000 to top 150)
 https://polygonscan.com/tx/0x810002e5baca458d30ec0a77e52d6205a9b24799ef43d04665cad52184c4668b
 
 Moon Base (Top Place)
+https://polygonscan.com/tx/0xc3674d8ef9d99a039fb7c7f8d74b47f96e433f9b02219c2e52c7fab3ec8ca4cc
 
 Side Comp NFT Artwork Card [Highest net worth with palindrome fork]
+https://etherscan.io/tx/0xf6e953134f0a662431bdc7a35420a9c50895e6503f0ebb65a46c9c93f471f526
+https://etherscan.io/tx/0x7fddf0fde3e34d90873794f07f4c9b7b609af266f97c382f11cac58de06b5149
+https://etherscan.io/tx/0x1b7e28de32be8a626600c3910516b987f31930fce71bf6627b4d415b052e3366
 
 TOKEN ALLOCCATION
 0xe58959b62861E82eD882A249AA90Cee5c55f9788 : 2,500
