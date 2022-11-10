@@ -1,0 +1,16 @@
+MINTOPOLIST TAX:
+1% of all exchange tax generated, split among the owners of the 50 Mintopolist bases [those with the Mintopolist Card and Base recieve a double share].
+
+2,029,310 $MM sold on exchange. 99 recipients (50 plots, 49 owned cards). 203 MM per recipient.
+
+https://polygonscan.com/tx/0x78585747f9459bb89e9aa9c804bcd19d135eb1a06c8f7136ff79633d0d3a49be
+
+---
+
+LUNAR AIRDROP:
+500,000 tokens split among all who contributed 5,000 "influence" resources and harvested 150x. 
+
+TRANSACTION:
+https://polygonscan.com/tx/0xeadc7d29a27389961f14a01305e055b27b48869409466b2db59319602846ceb7
+
+41 Players Completed the challenge. 12,195 tokens per player.
