@@ -1,4 +1,10 @@
-Mintopolist Tax (pending)
+MINTOPOLIST TAX:
+1% of all exchange tax generated, split among the owners of the 50 Mintopolist bases [those with the Mintopolist Card and Base recieve a double share].
+
+1,047,348 $MM sold on exchange. 99 recipients (50 plots, 49 owned cards). 105.79 MM per recipient.
+
+https://polygonscan.com/tx/0xaffa5bbf3bee9f309814079d1872e90f53aac036c01dc2466ea7a80d0cd204cb
+
 
 1 Million MM Airdrop split among 129 alien invasion contributors 
 https://polygonscan.com/tx/0xc327107ba9623ec58c8b35a601b7a935bf10d1afe0da8cca4ed6051481e7a5ad
