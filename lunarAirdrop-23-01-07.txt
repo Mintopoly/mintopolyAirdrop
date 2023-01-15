@@ -1,7 +1,17 @@
-Mintopolist Tax (pending)
+MINTOPOLIST TAX:
+1% of all exchange tax generated, split among the owners of the 50 Mintopolist bases [those with the Mintopolist Card and Base recieve a double share].
 
+1,407,976 $MM sold on exchange. 99 recipients (50 plots, 49 owned cards). 142.2 MM per recipient.
+
+https://polygonscan.com/tx/0x9686e92bc3d6ad2a77b5ad6d721cd8f76bb87c9f43febb451da92210e76b104e
+
+---
 
 300 Harvests for a share of 500,000 tokens. 164 Completions for 3048 $MM each.
+
+https://polygonscan.com/tx/0xb38db625e59c6c8e198f4ca8405e397cf44f8168ecba23a225329c07f909d5e9
+
+RECIPIENTS
 "0x0435F1194944E7eEE29aceDb7bE175a9223bE9a7"
 "0x825aA1aB6022D0A94911F03b85aCC3B05EC08738"
 "0x7309172EbD55bc672529B2FbF219E528eC143d6b"
