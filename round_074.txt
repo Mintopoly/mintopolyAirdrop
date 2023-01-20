@@ -2,10 +2,12 @@ Mintopoly Money Airdrop (250,000 to top 150)
 https://polygonscan.com/tx/0xc449ce1d20ce1583a3b16d9e7ef2736ed231530b13b24befd95cbee8a5e6106e
 
 Moon Base (Top Place)
-
+https://polygonscan.com/tx/0x4cdc3bfd85d97b68274e37245999c6f87ec1827f133b778590d98069de97ac3c
 
 Side Comp Dapp Card - [Most combined Smart Contracts and Decentralized Exchanges]
-
+https://etherscan.io/tx/0x3f383422efdd7fbc803637cc8cde444ab74bb0b5c8b15d8ca740c079cfd294ea
+https://etherscan.io/tx/0x7599a85b5ad476e516fd1746b5ab91419bd5fb0512eb7a4ef9c9c26c985ed257
+https://etherscan.io/tx/0xb57959b1cbf8eeffeb05de597b5a51a1e3487463a9de0c1777703fba7308242f
 
 TOKEN ALLOCCATION
 0x66E15e444A0FA24D72ad78b54763562F242cbf75 : 2,500
