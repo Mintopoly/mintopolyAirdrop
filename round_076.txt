@@ -1,6 +1,15 @@
 ==== WINTER TOURNAMENT PRIZES ====
 
-[pending]
+Card Prizes
+1. (Founders) Peregrine - https://etherscan.io/tx/0x019d23f792d3bce2c84c3f9e5bfdd0676cd07a0eadf1716748bf578fa6714342
+2. (Banker) Cards - https://etherscan.io/tx/0x90b9b1b79144027f046efc6671d4e011b8a12c726ad54bdaaf87005270205923
+3. (Dapp) Samova - https://etherscan.io/tx/0x8a8834ac96c86699e313de89635a27c7fe52130a3f3259ce6df14589dc5e3f1f
+4. (Artwork) RsTaLl - https://etherscan.io/tx/0xec0c5291d813a41412e01a44fb15bc0748adf28d04313bd19201fa7eb8b72dc8
+5. (Mintobot) xKim0 - https://polygonscan.com/tx/0xac4b95f5442e2375336be98292badea29a2dbae15ab1eebbb5cdf09161442d98
+
+MM Airdrop to top 100
+https://polygonscan.com/tx/0x8979c0394f55131e43310e2b7f7782f478202bc428fe71d0d2a642373b96f404
+
 
 ==== ROUND 76 PRIZES ====
 
